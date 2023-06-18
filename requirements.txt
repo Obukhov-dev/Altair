@@ -1,0 +1,9 @@
+nltk==3.8.1
+python-dotenv==0.21.1       # загрузка переменных окружения
+schedule==1.1.0
+scikit-learn==1.2.1
+vk-api==11.9.9
+pyowm==3.3.0 # Погода OpenWeatherMap
+requests==2.28.2 # Для загрузки файлов
+openpyxl==3.1.2 # Чтение exel
+pymongo==3.6 # db
